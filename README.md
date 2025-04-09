@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seda Nur</h1>
 <h3 align="center">Full-Stack Developer | .NET, PHP & Flutter Enthusiast</h3>
-<img align="right"  alt="cat-work-in-progress" width="380" src="https://github.com/user-attachments/assets/74ee8f3b-1c20-490d-9c3f-e330edfd3a15">
+
 
 ## 💫 About Me:
 🌱 I’m currently learning .NET Core & C# to build powerful web applications<br><br>💬 Ask me about PHP, Flutter<br><br>📫 How to reach me sedanuryavz8@gmail.com<br><br>⚡ Fun fact I used to code Flutter
