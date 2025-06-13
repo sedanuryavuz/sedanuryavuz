@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🌱 I’m currently learning Flutter and Dart to build powerful mobile applications.<br><br>💬 Ask me about .NET, Flutter<br><br>📫 How to reach me sedanuryavz8@gmail.com<br><br>⚡ Fun fact I used to code Flutter
+🌱 I’m currently learning Flutter and Dart to build powerful mobile applications.<br><br>💬 Ask me about .NET, Flutter<br><br>📫 How to reach me sedanuryavz8@gmail.com<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sedanuryavuz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sedanuryavuz) 
