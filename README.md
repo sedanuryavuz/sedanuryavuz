@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seda Nur</h1>
-<h3 align="center">.NET & Flutter Enthusiast</h3>
 
 
 ## 💫 About Me:
